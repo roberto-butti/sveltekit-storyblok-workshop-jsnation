@@ -1,5 +1,7 @@
 # Developing Dynamic Blogs with SvelteKit & Storyblok: A Hands-on Workshop
 
+<img src="https://gn-portal-og-images.vercel.app/developing-dynamic-blogs-with-sveltekit-and-storyblok-a-hands-on-workshop?v3-1685871772117" />
+
 This SvelteKit workshop explores the integration of 3rd party services, such as Storyblok, in a SvelteKit project. Participants will learn how to create a SvelteKit project, leverage Svelte components, and connect to external APIs. The workshop covers important concepts including SSR, CSR, static site generation, and deploying the application using adapters. By the end of the workshop, attendees will have a solid understanding of building SvelteKit applications with API integrations and be prepared for deployment.
 
 ## Join the Workshop
