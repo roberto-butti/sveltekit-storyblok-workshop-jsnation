@@ -1,5 +1,5 @@
 <main>
-    <h1>{data.space.name}</h1>
+    <h1>{data.space.name} ( {data.space.id})</h1>
     <slot />
 </main>
 <svelte:head>
